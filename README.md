@@ -9,7 +9,7 @@ Este é um projeto Dart simples que calcula a soma de todos os números entre 0 
 
 2. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto-dart.git
+   git clone https://github.com/Althierfson/desafio-tecnico-1-escribo.git
    ```
 
 3. **Navegue até o Diretório do Projeto:**
