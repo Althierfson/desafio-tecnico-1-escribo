@@ -31,6 +31,8 @@ dart run
 ```
 
 ```plaintext
+Building package executable... 
+Built desafio_tecnico_1_escribo:desafio_tecnico_1_escribo.
 Encontre o somatório dos números divisíveis por 3 ou 5.
 Digite um número inteiro positivo: 
 10
@@ -39,6 +41,8 @@ Programa encerrado.
 ```
 
 ```plaintext
+Building package executable... 
+Built desafio_tecnico_1_escribo:desafio_tecnico_1_escribo.
 Encontre o somatório dos números divisíveis por 3 ou 5.
 Digite um número inteiro positivo: 
 11
